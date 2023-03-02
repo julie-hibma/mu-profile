@@ -1,0 +1,30 @@
+body {
+	background-image: linear-gradient(turquoise, mediumpurple);
+	font-family: Moka;
+
+}
+
+.container {
+	width: 700px;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgb(0,0,0,0.5);
+	border-radius: 0px;
+	margin: 0px auto;
+	text-align: center;
+	background-color: transparent;
+}
+
+.card-white {
+	background-color: rgb(240,255,255);
+	/*background-image: linear-gradient(yellow, lightcoral);*/
+	margin: 40px auto;
+	border-radius: 30px;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.img-circles {
+	border-radius: 5%;
+}
